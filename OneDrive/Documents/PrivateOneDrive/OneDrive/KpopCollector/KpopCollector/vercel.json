@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/site", "destination": "/api/site" }
-  ]
-}
